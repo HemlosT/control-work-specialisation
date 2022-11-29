@@ -1,0 +1,15 @@
+D:\C#dz\CWork\control_work_task\bin\Debug\net6.0\control_work_task.exe
+D:\C#dz\CWork\control_work_task\bin\Debug\net6.0\control_work_task.deps.json
+D:\C#dz\CWork\control_work_task\bin\Debug\net6.0\control_work_task.runtimeconfig.json
+D:\C#dz\CWork\control_work_task\bin\Debug\net6.0\control_work_task.dll
+D:\C#dz\CWork\control_work_task\bin\Debug\net6.0\control_work_task.pdb
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\control_work_task.csproj.AssemblyReference.cache
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\control_work_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\control_work_task.AssemblyInfoInputs.cache
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\control_work_task.AssemblyInfo.cs
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\control_work_task.csproj.CoreCompileInputs.cache
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\control_work_task.dll
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\refint\control_work_task.dll
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\control_work_task.pdb
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\control_work_task.genruntimeconfig.cache
+D:\C#dz\CWork\control_work_task\obj\Debug\net6.0\ref\control_work_task.dll
