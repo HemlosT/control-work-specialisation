@@ -22,3 +22,5 @@ __hello 2 world computer science 23 col world__
 
 В результате программа выведет на экран массив с введенными строками, а затем и результат решения задачи:
 __[hello, 2, world, computer, science, 23, col, world] -> [2, 23, col]__
+
+### ЗАДАЧА РЕШЕНА ###
